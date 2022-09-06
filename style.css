@@ -125,6 +125,8 @@ div .btn:hover{
     }
     .container{
         width: 80%;
+        box-shadow: none;
+        background: transparent;
     }
 
     .body{
