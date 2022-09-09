@@ -15,7 +15,7 @@ body{
 }
 
 .container{
-    background:var(--Violet) url(./images/bg-desktop.svg);
+    background:var(--Violet) url(./images/bg-mobile.svg);
     background-size: contain;
     background-repeat: no-repeat;
     width:90%;
@@ -118,7 +118,7 @@ div .btn:hover{
 @media screen and (min-width:1000px){
    
     body{
-    background:var(--Violet) url(./images/bg-mobile.svg);
+    background:var(--Violet) url(./images/bg-desktop.svg);;
     background-size: cover;
     padding:0px 0px;
     background-repeat: no-repeat;
